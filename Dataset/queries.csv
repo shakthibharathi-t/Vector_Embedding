@@ -1,0 +1,6 @@
+query_id,query_text
+Q1,What is artificial intelligence?
+Q2,How do vector embeddings work in databases?
+Q3,Explain semantic search concepts.
+Q4,What is the role of ChromaDB in LLMs?
+Q5,How to generate sentence embeddings?
